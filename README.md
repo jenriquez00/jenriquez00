@@ -1,5 +1,6 @@
-#👋 Hi, I’m @jenriquez00
-  <a href="www.linkedin.com/in/janine-enriquez-7a3416175"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+👋 Hi, I’m Janine!
+>
+  <a href="https://www.linkedin.com/in/janine-enriquez-7a3416175"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent postgraduate with a profound interest in technology and a dedication to solving complex problems.
