@@ -1,9 +1,8 @@
 👋 Hi, I’m Janine!
->
-  <a href="https://www.linkedin.com/in/janine-enriquez-7a3416175"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://www.linkedin.com/in/janine-enriquez-7a3416175"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent postgraduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate about cybersecurity, I am driven by the field's role in safeguarding our digital world. With a knack for problem-solving and a thirst for continuous learning, I thrive in dynamic environments where challenges abound. While I lack direct experience, my adaptability and commitment make me a strong candidate for an entry-level cybersecurity position. I believe the Google Cybersecurity Certificate will equip me with the necessary skills to excel in this field and contribute meaningfully to organizational security goals.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
