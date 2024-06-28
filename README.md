@@ -69,8 +69,14 @@ Languages: SQL, Python, JavaScript, C, C++
 
 ## Certification
 
-<a href="https://coursera.org/share/02d4bea183b7c8611a655d26e1c9ba3b"><img alt="Static Badge" src="https://img.shields.io/badge/-google?style=for-the-badge&logo=google&logoColor=white&label=coursera&labelColor=blue&color=blue&link=https%3A%2F%2Fcoursera.org%2Fshare%2F02d4bea183b7c8611a655d26e1c9ba3b"> </a>
+<div>
+  
+<a href="https://coursera.org/share/02d4bea183b7c8611a655d26e1c9ba3b"><img alt="Static Badge" src="https://img.shields.io/badge/-google?style=for-the-badge&logo=google&logoColor=white&label=coursera&labelColor=blue&color=blue&link=https%3A%2F%2Fcoursera.org%2Fshare%2F02d4bea183b7c8611a655d26e1c9ba3b" /></a>
+<a href="https://coursera.org/share/8e199ffc482b06ce60fb442d7f1a2391"><img alt="Static Badge" src="https://img.shields.io/badge/-google?style=for-the-badge&logo=coursera&logoColor=white&label=Google&labelColor=yellow&color=yellow&link=%3Cobject%3Ehttps%3A%2F%2Fcoursera.org%2Fshare%2F8e199ffc482b06ce60fb442d7f1a2391%3C%2Fobject%3E">
 
+</a>
+
+</div>
 <!---
 jenriquez00/jenriquez00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
